@@ -14,6 +14,6 @@ This is my personal portfolio website, crafted to highlight my skills, projects,
 
 Currently, the frontend is fully functional, while backend integration (such as dynamic content and form handling) is in progress and will be added soon.
 
-🔗 Live Demo: My Portfolio
+🔗 Live Demo:  https://shrishti08012004.github.io/My_Portfolio1/
 
 This project reflects my growth as a developer and serves as a hub for anyone who wants to explore my work. Feedback and suggestions are always welcome!
